@@ -2,3 +2,4 @@ potatoes
 onions
 carrots
 butter
+eggs
